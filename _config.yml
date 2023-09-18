@@ -10,3 +10,10 @@ author: Sebastien Brun
 
 # Short bio or description (displayed in the header)
 description: A workspace to test foam and jekyll theme
+
+# Title
+title: Foam Test Site
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
