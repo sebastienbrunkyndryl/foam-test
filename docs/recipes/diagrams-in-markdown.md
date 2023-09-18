@@ -6,6 +6,7 @@ We have two alternative #recipe for displaying diagrams in markdown:
   - [Mermaid](#mermaid)
   - [Draw.io](#drawio)
     - [Using Draw.io](#using-drawio)
+    - [Integration](#integration)
 
 ## Mermaid
 
@@ -23,3 +24,5 @@ You can use [Mermaid](https://marketplace.visualstudio.com/items?itemName=bierne
 2. Create a new `*.drawio.svg` or `*.drawio.png` file.
 3. Start drawing your diagram. Once you done, save it.
 4. Embed the diagram file as you embedding the image file, for example: `![My Diagram](my-diagram.drawio.svg)`
+
+### Integration

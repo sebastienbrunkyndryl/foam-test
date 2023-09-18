@@ -1,0 +1,12 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Foam Test Site
+
+# Name of the author
+author: Sebastien Brun
+
+# Short bio or description (displayed in the header)
+description: A workspace to test foam and jekyll theme
